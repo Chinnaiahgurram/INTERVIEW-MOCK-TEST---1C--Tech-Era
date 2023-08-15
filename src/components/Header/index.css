@@ -1,0 +1,11 @@
+.nav-header {
+  height: 100px;
+  width: 90%;
+  background-color: #f1f5f9;
+}
+.logo-image {
+  height: 100px;
+  width: 200px;
+  padding-left: 40px;
+  padding-top: 20px;
+}
